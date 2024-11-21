@@ -31,5 +31,6 @@ I am **Kato  Raymond**, a full-stack freelance website developer and software en
 
 I'm open to freelance projects and collaborations. If you're looking for a dedicated developer to bring your ideas to life—be it a new website, a custom web application, or integrating secure payment solutions—let's connect!
 
-Feel free to reach out via **[my contact page](https://katorymnd.com/contact-us)** or**[contact me](mailto:katorymnd@gmail.com)** directly or reach out via [LinkedIn](https://ug.linkedin.com/in/katorymnd). Let's discuss how we can bring your ideas to life!
+
+Feel free to reach out via **[my contact page](https://katorymnd.com/contact-us)**, **[email me directly](mailto:katorymnd@gmail.com)**, or connect with me on [LinkedIn](https://ug.linkedin.com/in/katorymnd). Let's discuss how we can bring your ideas to life!
 
